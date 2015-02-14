@@ -1,5 +1,5 @@
 {
-    "name": "eNathan/laravel-restclient",
+    "name": "nathanmac/laravel-restclient",
     "description": "Simple RestClient for Laravel 5",
     "license": "MIT",
     "authors": [
