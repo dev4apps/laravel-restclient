@@ -1,6 +1,6 @@
 {
-    "name": "nathanmac/laravel-restclient",
-    "description": "Simple RestClient for Laravel 4",
+    "name": "eNathan/laravel-restclient",
+    "description": "Simple RestClient for Laravel 5",
     "license": "MIT",
     "authors": [
         {
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Nathanmac\\RestClient\\": "src/"
+            "eNathan\\RestClient\\": "src/"
         }
     },
     "minimum-stability": "dev"
